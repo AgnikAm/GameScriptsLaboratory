@@ -4,11 +4,7 @@
 
 ✅ 3.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/5c8778b663e4b3644362580f5113e2c01850b7d6)
 
-✅ 3.5 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/5c8778b663e4b3644362580f5113e2c01850b7d6)
-
 ✅ 4.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/5c8778b663e4b3644362580f5113e2c01850b7d6)
-
-✅ 4.5 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/5c8778b663e4b3644362580f5113e2c01850b7d6)
 
 ✅ 5.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/5c8778b663e4b3644362580f5113e2c01850b7d6)
 
@@ -57,16 +53,16 @@ Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/ruby
 
 Kod: 
 
-1. Python
+1. Python (Rasa bot)
 
-❌ 3.0
+✅ 3.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/6e2cdabf5aadba9a381878ccc653c34a5fb396bd)
 
-❌ 3.5
+✅ 3.5 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/6e2cdabf5aadba9a381878ccc653c34a5fb396bd)
 
-❌ 4.0
+✅ 4.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/6e2cdabf5aadba9a381878ccc653c34a5fb396bd)
 
 ❌ 4.5
 
 ❌ 5.0
 
-Kod:
+Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/python
