@@ -1,0 +1,43 @@
+version: "3.1"
+
+rules:
+
+- rule: Respond to farewells
+  steps:
+  - intent: farewell
+  - action: utter_farewell
+
+- rule: Introduce the bot when asked
+  steps:
+  - intent: bot_info
+  - action: utter_bot_intro
+
+- rule: Show menu when user asks
+  steps:
+  - intent: ask_menu
+  - action: action_show_menu
+
+- rule: Show opening hours
+  steps:
+  - intent: inquire_hours
+  - action: action_opening_hours
+
+- rule: Start delivery order process
+  steps:
+  - intent: order_delivery
+  - action: utter_order_intro
+
+- rule: Confirm helpful answer
+  steps:
+  - intent: yes
+  - action: utter_helpful
+
+- rule: Decline or negative response
+  steps:
+  - intent: no
+  - action: utter_farewell
+
+- rule: Handle fallback
+  steps:
+  - intent: nlu_fallback
+  - action: utter_fallback

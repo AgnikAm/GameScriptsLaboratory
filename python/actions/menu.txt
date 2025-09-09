@@ -1,0 +1,12 @@
+"Tomato Soup — $5",
+"Caesar Salad — $8",
+"Chicken Pasta — $12",
+"Margherita Pizza — $10",
+"Pepperoni Pizza — $12",
+"Grilled Salmon — $15",
+"Beef Burger with Fries — $11",
+"Veggie Wrap — $9",
+"Tiramisu — $6",
+"Cheesecake — $6",
+"Coffee — $3",
+"Fresh Orange Juice — $4"

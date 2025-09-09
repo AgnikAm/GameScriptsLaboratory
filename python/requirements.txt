@@ -1,0 +1,4 @@
+rasa-pro
+rasa-sdk
+discord.py
+python-dotenv

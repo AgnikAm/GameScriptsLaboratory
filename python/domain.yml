@@ -1,0 +1,44 @@
+version: "3.1"
+
+intents:
+  - hello
+  - inquire_hours
+  - farewell
+  - yes
+  - no
+  - ask_menu
+  - order_delivery
+  - bot_info
+  - nlu_fallback
+
+responses:
+  utter_welcome:
+    - text: "Hello! How's everything today?"
+
+  utter_show_hours:
+    - text: "We are open every day from 10 AM to 10 PM."
+
+  utter_helpful:
+    - text: "Did that answer what you wanted to know?"
+
+  utter_menu:
+    - text: "Here is our menu for today!"
+
+  utter_order_intro:
+    - text: "Great! Let's place your delivery order."
+
+  utter_farewell:
+    - text: "Goodbye! See you soon."
+
+  utter_bot_intro:
+    - text: "I'm a simple restaurant assistant bot here to help you."
+
+  utter_fallback:
+    - text: "I'm not sure I understand. Can you try asking differently?"
+actions:
+  - action_show_menu
+  - action_opening_hours
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

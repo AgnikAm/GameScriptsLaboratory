@@ -1,0 +1,97 @@
+version: "3.1"
+
+nlu:
+- intent: hello
+  examples: |
+    - hi
+    - hello
+    - hey there
+    - good morning
+    - good evening
+    - greetings
+    - hey!
+    - hi there
+    - what's up?
+    - howdy
+    - yo
+    - hiya
+    - good to see you
+    - hey bot
+
+- intent: inquire_hours
+  examples: |
+    - When are you open?
+    - What time do you open?
+    - Are you open today?
+    - Until what time are you open?
+    - Opening hours?
+    - Can I come by now?
+    - When does the restaurant close?
+    - What's your schedule?
+    - Hours today?
+
+- intent: farewell
+  examples: |
+    - bye
+    - goodbye
+    - see you
+    - catch you later
+    - have a nice day
+    - see you soon
+    - talk later
+    - bye bye
+    - see ya
+
+- intent: yes
+  examples: |
+    - yes
+    - sure
+    - absolutely
+    - of course
+    - yep
+    - definitely
+    - sure thing
+    - sounds good
+
+- intent: no
+  examples: |
+    - no
+    - nope
+    - not really
+    - never
+    - no way
+    - nah
+    - I don't think so
+
+- intent: ask_menu
+  examples: |
+    - Can you show me the menu?
+    - What's on the menu today?
+    - Show me your dishes
+    - I'd like to see the menu
+    - What can I order?
+    - Menu please
+    - Do you have a menu?
+    - I want to see what you serve
+    - What meals are available?
+
+- intent: order_delivery
+  examples: |
+    - I want to place a delivery order
+    - Can I order for delivery?
+    - I'd like food delivered
+    - Delivery please
+    - I want to order some dishes
+    - Place an order for delivery
+    - Can you deliver food?
+    - I need delivery
+    - Order delivery now
+
+- intent: bot_info
+  examples: |
+    - Are you a bot?
+    - Are you human?
+    - Am I talking to a bot?
+    - Are you automated?
+    - What are you?
+    - Are you a real person?
