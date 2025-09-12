@@ -1,6 +1,6 @@
 # Game Scripts Laboratory
 
-1. Bash - Tic-Tac-Toe
+**Bash - Tic-Tac-Toe**
 
 ✅ 3.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/5c8778b663e4b3644362580f5113e2c01850b7d6)
 
@@ -11,7 +11,7 @@
 Kod: https://github.com/AgnikAm/GameScriptsLaboratory/blob/main/bash/tic-tac-toe.sh
 
 
-2. JavaScript - Minecraft castle
+**JavaScript - Minecraft castle**
 
 ✅ 3.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/202a02e5172ff452b6d4ae40888e881ed34b6d15)
 
@@ -31,7 +31,7 @@ Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/js
 
 ![Castle](js/images/castle3.PNG)
 
-3. Ruby - Amazon Crawler
+**Ruby - Amazon Crawler**
 
 ✅ 3.0 [commit](https://github.com/AgnikAm/GameScriptsLaboratory/commit/38b88d300bad34669f2794120797cffe4edeb0d1)
 
@@ -45,7 +45,7 @@ Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/js
 
 Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/ruby
 
-4. Lua
+**Lua**
 
 ❌ 3.0
 
@@ -59,7 +59,7 @@ Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/ruby
 
 Kod: 
 
-1. Python - Rasa bot
+**Python - Rasa bot**
 
 ✅ 3.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/6e2cdabf5aadba9a381878ccc653c34a5fb396bd)
 
