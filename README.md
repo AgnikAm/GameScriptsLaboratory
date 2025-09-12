@@ -47,9 +47,9 @@ Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/ruby
 
 **Lua**
 
-❌ 3.0
+✅ 3.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/02fcbdb565d3e82a44fa2d0e35c8f5cc22f54151)
 
-❌ 3.5
+✅ 3.5 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/02fcbdb565d3e82a44fa2d0e35c8f5cc22f54151)
 
 ❌ 4.0
 
@@ -57,7 +57,7 @@ Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/ruby
 
 ❌ 5.0
 
-Kod: 
+Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/lua
 
 **Python - Rasa bot**
 
