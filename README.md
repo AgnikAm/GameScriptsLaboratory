@@ -11,11 +11,11 @@
 Kod: https://github.com/AgnikAm/GameScriptsLaboratory/blob/main/bash/tic-tac-toe.sh
 
 
-1. JavaScript
+2. JavaScript - Minecraft castle
 
-❌ 3.0 wymaganie 1
+✅ 3.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/202a02e5172ff452b6d4ae40888e881ed34b6d15)
 
-❌ 3.5 wymaganie 2
+✅ 3.5 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/202a02e5172ff452b6d4ae40888e881ed34b6d15)
 
 ❌ 4.0 wymaganie 3
 
@@ -23,7 +23,13 @@ Kod: https://github.com/AgnikAm/GameScriptsLaboratory/blob/main/bash/tic-tac-toe
 
 ❌ 5.0 wymaganie 5
 
-Kod: 
+Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/js
+
+![Castle](js/images/castle1.PNG)
+
+![Castle](js/images/castle2.PNG)
+
+![Castle](js/images/castle3.PNG)
 
 3. Ruby - Amazon Crawler
 
@@ -53,7 +59,7 @@ Kod: https://github.com/AgnikAm/GameScriptsLaboratory/tree/main/ruby
 
 Kod: 
 
-1. Python (Rasa bot)
+1. Python - Rasa bot
 
 ✅ 3.0 [Link do commita](https://github.com/AgnikAm/GameScriptsLaboratory/commit/6e2cdabf5aadba9a381878ccc653c34a5fb396bd)
 
